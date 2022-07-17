@@ -2,7 +2,7 @@ Extract frames as an image from video files using FFMPEG
 =======
 In this repository, an example given to extract a frame as an image for each second of given video file using a python script that uses FFMPEG tool.
 
-## Installing FFMPEG for Ubuntu 14.04
+## Installing FFMPEG for Ubuntu 20.04
 Firstly, you need to install the "libav-tools" package:
 ```
 $ sudo apt-get install libav-tools
