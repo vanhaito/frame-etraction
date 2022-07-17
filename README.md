@@ -20,6 +20,13 @@ Run the "get_frames.py" script with input and fps arguments as in below.
 $ python get_frames.py -i data/videos/Smurf_Coloured_Glasses.mp4 -f 1
 ```
 
+## Get video from camera via rtsp
+$ pip install -r requirements.txt
+$ python get_video_rtsp.py
+
+## Get fps of a video
+$ python get_fps.py
+
 References
 ------
 - https://medium.com/@alibugra/extract-frames-as-an-image-from-video-files-using-ffmpeg-65b52d3d97db
